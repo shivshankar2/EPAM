@@ -1,0 +1,105 @@
+[
+    { 
+      "id": 1,
+      "Serial no": 2,
+      "Name": "Shankar",
+      "TicketNumber":100,
+      "RatingGrade":5,
+      "ExamGrade":3,
+      "Status": "Fail",
+      "Grade": "E",
+      "FinalGrade":"O",
+      "value":0
+
+
+    },
+    {
+      "id": 2,
+      "Serial no": 2,
+      "Name": "Ankit",
+      "TicketNumber":101,
+      "RatingGrade":5,
+      "ExamGrade":3,
+      "Status": "Fail",
+      "Grade": "E",
+      "FinalGrade":"O",
+      "value":0
+    },
+    {
+       
+      "id": 3,
+      "Serial no": 2,
+      "Name": "Rahul",
+      "TicketNumber":102,
+      "RatingGrade":5,
+      "ExamGrade":3,
+      "Status": "Fail",
+      "Grade": "E",
+      "FinalGrade":"O",
+      "value":0
+    },
+    {
+       
+      "id": 4,
+      "Serial no": 2,
+      "Name": "Monika",
+      "TicketNumber":103,
+      "RatingGrade":5,
+      "ExamGrade":3,
+      "Status": "Fail",
+      "Grade": "E",
+      "FinalGrade":"O",
+      "value":1
+    },
+    {
+       
+      "id": 5,
+      "Serial no": 2,
+      "Name": "Ravi",
+      "TicketNumber":104,
+      "RatingGrade":5,
+      "ExamGrade":4,
+      "Status": "Pass",
+      "Grade": "E",
+      "FinalGrade":"O",
+      "value":1
+    },
+    {
+       
+      "id": 6,
+      "Serial no": 2,
+      "Name": "Parul",
+      "TicketNumber":105,
+      "RatingGrade":5,
+      "ExamGrade":3,
+      "Status": "Fail",
+      "Grade": "E",
+      "FinalGrade":"O",
+      "value":1
+    },
+    {
+       
+      "id": 7,
+      "Serial no": 2,
+      "Name": "Ashok",
+      "TicketNumber":106,
+      "RatingGrade":5,
+      "ExamGrade":5,
+      "Status": "Pass",
+      "Grade": "O",
+      "FinalGrade":"O",
+      "value":1
+    },
+    {
+       
+      "id": 8,
+      "Serial no": 2,
+      "Name": "Pankaj",
+      "TicketNumber":107,
+      "RatingGrade":4,
+      "ExamGrade":5,
+      "Status": "Pass",
+      "Grade": "O",
+      "FinalGrade":"O",
+      "value":1
+    }]
